@@ -14,5 +14,5 @@
 ### 💡 수행과제 결과물
 ![image01](https://github.com/user-attachments/assets/fec6a67b-0e47-4a05-8a9c-10345daf0900)
 
-### 💡 수료증
+### 💡 이수증
 ![대진대학교 비교과 프로그램 이수 증명서_page-0001](https://github.com/user-attachments/assets/9a656504-46e5-4b5b-87ca-df29cd512215)
